@@ -38,7 +38,6 @@ std = [
   "sp-arithmetic/std",
   "frame-support/std",
   "frame-system/std",
-  "pallet-balances/std",
   "bridge-common/std",
   "rtoken-balances/std",
   "xtoken-balances/std",

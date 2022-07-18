@@ -36,7 +36,6 @@ std = [
   "sp-io/std",
   "frame-support/std",
   "frame-system/std",
-  "pallet-balances/std",
   "rtoken-balances/std",
   "rdex-balances/std",
 ]
